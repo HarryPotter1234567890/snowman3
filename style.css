@@ -1,0 +1,33 @@
+body
+{
+text-align:center;
+font-family:'Courier New', Courier, monospace;
+}
+.heading{
+    width:100%;
+    font-size: 25px;
+    
+}
+.heading button{
+float:right;
+border: 2px solid aliceblue;
+border-radius:10px;
+}
+
+h3{
+    display:inline;
+
+}
+h4{
+    background-color: aliceblue;
+    
+    line-height: 50px;
+    margin-bottom:0px;
+    } .modal-dialog{
+        width:90%;
+     }
+     canvas{
+        border: 5px solid mediumaquamarine;
+        border-radius:10px;
+        box-shadow: 5px 5px 5px 10px mintcream;
+     }
